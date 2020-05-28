@@ -9,15 +9,16 @@ const jsonFromTable = require('jsonfromtable2')
 
 jsonFromTable({
   url: 'https://example.com',
-  selector: '.wikitable', // default => table
+  selector: '.className', // default => table
 }).then(data => console.log(data))
 
 // OR
 
 jsonFromTable({
   html: '<html>...</html>',
-  selector: '.wikitable', // default => table
+  selector: '.className', // default => table
 }).then(data => console.log(data))
+
 
 ```
 

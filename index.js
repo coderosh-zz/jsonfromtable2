@@ -9,7 +9,7 @@ const defaultOptions = {
 /**
  *
  * @param {{html: string, url: string,selector: string, customHeaders: string[], options: defaultOptions}} param0
- *
+ * @return {Promise<any[]>}
  */
 
 const jsonFromTable = async ({
