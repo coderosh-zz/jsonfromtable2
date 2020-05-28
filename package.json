@@ -1,0 +1,23 @@
+{
+  "name": "jsonfromtable2",
+  "version": "0.0.1",
+  "description": "Generate JSON output from HTML tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acharyaroshanji/jsonfromtable2.git"
+  },
+  "author": "Roshan Acharya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acharyaroshanji/jsonfromtable2/issues"
+  },
+  "homepage": "https://github.com/acharyaroshanji/jsonfromtable2#readme",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "node-fetch": "^2.6.0"
+  }
+}
