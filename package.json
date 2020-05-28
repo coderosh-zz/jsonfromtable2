@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "description": "Generate JSON output from HTML tables",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords": [
+    "table to json",
+    "json",
+    "html table",
+    "table scraper",
+    "table parser"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acharyaroshanji/jsonfromtable2.git"
