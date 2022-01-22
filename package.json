@@ -22,6 +22,6 @@
   "homepage": "https://github.com/acharyaroshanji/jsonfromtable2#readme",
   "dependencies": {
     "jsdom": "^16.2.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.1.1"
   }
 }
